@@ -1,0 +1,10 @@
+
+Hey Gusy Use Python 3.10 and Use pipenv
+
+open cmd or terminal then run this commands
+
+root@linux:~$ pip install pipenv
+
+root@linux:~$ pipenv sync
+
+root@linux:~$ python run.py
