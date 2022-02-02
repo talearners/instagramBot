@@ -13,7 +13,6 @@ class InstagramBot:
 
     def __init__(self) -> None:
         self.driver = Firefox(executable_path=self.driverpath)
-        self.driver.find_element
     
 
     def login(self):
