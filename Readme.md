@@ -1,9 +1,9 @@
-Hey Gusy Use Python 3.10 and Use pipenv
+# Hey Gusy Use Python 3.10 and Use pipenv
 
-open cmd or terminal then run this commands
+__open cmd or terminal then run this commands__
 
-root@linux:~$ pip install pipenv
+root@linux:~$ ``pip install pipenv``
 
-root@linux:~$ pipenv sync
+root@linux:~$ ``pipenv sync``
 
-root@linux:~$ python run.py
+root@linux:~$ ``python run.py``
