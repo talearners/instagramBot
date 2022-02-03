@@ -5,8 +5,7 @@ name = "pypi"
 
 [packages]
 selenium = "*"
-bs4 = "*"
-ipython = "*"
+jupyter = "*"
 
 [dev-packages]
 
