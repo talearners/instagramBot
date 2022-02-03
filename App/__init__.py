@@ -2,8 +2,6 @@
 Author : TA Learners 
 
 '''
-
-from cProfile import label
 from selenium.webdriver import Firefox
 from selenium.webdriver.support import expected_conditions as exp
 from selenium.webdriver.support.ui import WebDriverWait
@@ -84,3 +82,4 @@ class InstagramBot:
             self.driver.refresh()
         except TimeoutException as timeout:
             print(timeout.msg)
+            quit()
